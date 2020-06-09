@@ -1,0 +1,6 @@
+suite = 'bbob', funcId = 7, DIM = 2, Precision = 1.000e-08, algId = 'gpy_lcb', coco_version = '2.3.3.5', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f7/bbobexp_f7_DIM2_i1.dat, 1:25|1.5e-01, 2:25|3.8e-03, 3:25|7.9e-02, 4:25|2.1e-01, 5:25|4.9e-01, 71:25|4.9e-01, 72:25|9.7e-02, 73:25|1.2e-01, 74:25|8.7e-02, 75:25|2.2e-02, 76:25|1.0e-01, 77:25|1.3e-01, 78:25|2.3e-01, 79:25|1.1e-01, 80:25|2.6e-01
+suite = 'bbob', funcId = 7, DIM = 3, Precision = 1.000e-08, algId = 'gpy_lcb', coco_version = '2.3.3.5', logger = 'bbob', data_format = 'bbob-new2'
+%
+data_f7/bbobexp_f7_DIM3_i1.dat, 1:35|2.2e-01, 2:35|1.0e-01, 3:35|2.1e-01, 4:35|1.1e+00, 5:35|3.7e-01, 71:35|7.3e-02, 72:35|1.3e-01, 73:35|7.9e-01, 74:35|5.2e-01, 75:35|8.4e-01, 76:35|2.3e-01, 77:35|4.3e+00, 78:35|6.8e-01, 79:35|1.3e-01, 80:35|4.8e-01
