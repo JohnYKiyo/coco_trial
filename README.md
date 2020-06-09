@@ -46,4 +46,4 @@ $ python -m cocopp -o results exdata/*
 [4] [Posìk, P. Huyer, W. & Pal, L. A comparison of global search algorithms for continuous black box optimization. Evol. Comput. 20, 509–541 (2012).](https://www.mitpressjournals.org/doi/pdf/10.1162/EVCO_a_00084)
 
 ## related work
-limited-gp: https://tech.preferred.jp/ja/blog/limited-gp/
+limited-gp: https://github.com/pfnet-research/limited-gp
