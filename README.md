@@ -20,7 +20,7 @@ $ python do.py install-postprocessing
 ### test
 
 ```console
-$ python solver run.py
+$ python solver/run.py
 ```
 
 Results will be outputted to directory `exdata/`.
